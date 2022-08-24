@@ -6,7 +6,7 @@
   <!-- <a href="https:/RealTimeBusTrack.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Real Time Bus</h1>
+<h1 align="center">Real Time Tracker Bus</h1>
 <div align="center">
   <img alt ="RealTimeBusTrack" src="face.png">
 </div>
