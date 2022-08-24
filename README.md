@@ -38,7 +38,7 @@ This is a proyect with Mapbox and a way to find the best place to drink somethin
 
 ## :sparkles: Features
 
-:heavy_check_mark: Miraflores is one of the most tourist city of peru, and here we have two special place tu drink something special.
+:heavy_check_mark: Miraflores is one of the most tourist city of peru, and here we have two special place tu drink something diferent.
 
 ## :rocket: Technologies
 
