@@ -8,7 +8,7 @@
 
 <h1 align="center">Real Time Bus >Track</h1>
 <div align="center">
-  <img alt ="RealTimeBusTrack" src="images/face.png">
+  <img alt ="RealTimeBusTrack" src="face.png">
 </div>
 
 <p align="center">
