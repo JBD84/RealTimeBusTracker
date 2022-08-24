@@ -27,7 +27,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/JBD84" target="_blank">Javier</a>
+  <a href="https://github.com/JBD84" target="_blank">Author</a>
 </p>
 
 <br>
