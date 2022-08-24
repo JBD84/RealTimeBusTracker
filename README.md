@@ -1,30 +1,30 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Pacmen" />
+  <img src="./.github/app.gif" alt="RealTimeBusTrack" />
 
 &#xa0;
 
-  <!-- <a href="https://pacmen.netlify.app">Demo</a> -->
+  <!-- <a href="https:/RealTimeBusTrack.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">PacMan</h1>
+<h1 align="center">Real Time Bus >Track</h1>
 <div align="center">
-  <img alt ="Pacman" src="images/face.png">
+  <img alt ="RealTimeBusTrack" src="images/face.png">
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JBD84/Pacmen?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JBD84/RealTimeBusTrack?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JBD84/Pacmen?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JBD84/RealTimeBusTrack?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JBD84/Pacmen?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JBD84/RealTimeBusTrack?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/JBD84/Pacmen?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/JBD84/RealTimeBusTrack?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/JBD84/Pacmen?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/JBD84/RealTimeBusTrack?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/JBD84/Pacmen?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/JBD84/RealTimeBusTrack?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/JBD84/Pacmen?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/JBD84/RealTimeBusTrack?color=56BEB8" /> -->
 </p>
 
 
@@ -87,4 +87,3 @@ Made by: heart <a href="https://github.com/JBD84" target="_blank">Javier Bambare
 &#xa0;
 
 <a href="#top">Back to top</a>
-
